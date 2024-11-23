@@ -10,11 +10,11 @@
 
 ---
 
-### Connect with Me:  
-[![Behance](https://img.shields.io/badge/Behance-%230077B5.svg?style=for-the-badge&logo=behance&logoColor=white)](#)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](#)  
+### 🌐 Connect with Me:
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](#)
 
 ---
 
@@ -32,6 +32,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
+
+### 🏆 GitHub Achievements:
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 
 ### 📊 GitHub Stats:  
 ![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik881997&show_icons=true&theme=radical)  
