@@ -34,7 +34,7 @@
 ---
 
 ### 🏆 GitHub Achievements:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pratik881997&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
